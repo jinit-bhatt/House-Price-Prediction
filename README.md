@@ -13,5 +13,5 @@ The data pertains to the houses found in a given California district and some su
 ![Data Information](./Utils/house_price.ipynb%20–%20house_price.ipynb%2007-04-2024%2000_43_03.png)</br></br>
 ![Dataset Histograph](./Utils/Dataset%20Histograph.png)</br>
 <p align="center"><b>Figure 1</b>: Dataset Histograph</p></br></br>
-<img src="./Utils/Dataset Heat Map.png"></br>
+<img src="./Utils/Dataset Heat Map.png">
 <p align="center"><b>Figure 2</b>: Dataset Heat Map</p></br></br>
