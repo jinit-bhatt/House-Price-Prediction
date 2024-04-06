@@ -12,6 +12,6 @@ The data contains information from the 1990 California census. So although it ma
 The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The columns are as follows, their names are pretty self explanitory:</br></br> 
 ![Data Information](./Utils/house_price.ipynb%20–%20house_price.ipynb%2007-04-2024%2000_43_03.png)</br></br>
 ![Dataset Histograph](./Utils/Dataset%20Histograph.png)</br>
-<p align="center">**Figure 1**: Dataset Histograph</p>p</br></br>
+<p align="center"><b>Figure 1</b>: Dataset Histograph</p>p</br></br>
 ![Dataset Heat Map](./Utils/Dataset%20Heat%20Map.png)</br>
-<p align="center">**Figure 2**: Dataset Heat Map</p></br></br>
+<p align="center"><b>Figure 2</b>: Dataset Heat Map</p></br></br>
