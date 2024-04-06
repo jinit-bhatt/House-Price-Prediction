@@ -9,9 +9,9 @@ Finally, we will delve into hyperparameter tuning for Random Forest Regression. 
 # 2.	Dataset description
 This is the dataset used in the second chapter of Aurélien Géron's recent book 'Hands-On Machine learning with Scikit-Learn and TensorFlow'. It serves as an excellent introduction to implementing machine learning algorithms because it requires rudimentary data cleaning, has an easily understandable list of variables and sits at an optimal size between being to toyish and too cumbersome.
 The data contains information from the 1990 California census. So although it may not help you with predicting current housing prices like the Zillow Zestimate dataset, it does provide an accessible introductory dataset for teaching people about the basics of machine learning.
-The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The columns are as follows, their names are pretty self explanitory:
+The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The columns are as follows, their names are pretty self explanitory:</br></br>
 Inline-style: 
-![Data Information](./Utils/house_price.ipynb%20–%20house_price.ipynb%2007-04-2024%2000_43_03.png)
+![Data Information](./Utils/house_price.ipynb%20–%20house_price.ipynb%2007-04-2024%2000_43_03.png)</br></br>
 [Dataset Histograph](./Utils/Dataset%20Histograph.png)
 **Figure 1**: Dataset Histograph
 [Dataset Heat Map](./Utils/Dataset%20Heat%20Map.png)
